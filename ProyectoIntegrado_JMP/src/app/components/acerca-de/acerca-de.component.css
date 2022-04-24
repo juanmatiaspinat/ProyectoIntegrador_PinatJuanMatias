@@ -10,8 +10,8 @@ div{
 @media (min-width: 576px){
     #fotoPerfil{
         position: absolute;
-        width: 14%;
-        border-radius: 75%;
+        width: 13%;
+        border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
         top: 640px;
