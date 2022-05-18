@@ -1,3 +1,47 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.redes{
+    margin-right: 0.5cm;
+}
+
 #logoAP{
     width: 200px;
+}
+
+#WhatsApp{
+    margin: 3.5px;
+    width: 40px;
+    cursor: pointer;
+}
+
+#Facebook{
+    margin: 0.1cm;
+    width: 40px;
+}
+
+#Instagram{
+    margin: 1px;
+    width: 46px;
+}
+
+#Twitter{
+    margin: 1px;
+    width: 43px;
+    margin-right: 0.5cm;
+}
+
+/* PARA LA VISTA DE CELULAR */
+@media (max-width: 575px){
+    .container{
+        flex-direction: column;
+    }
+    
+    .redes{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }
