@@ -6,8 +6,15 @@ div{
     background-color: #ffffff;
 }
 h1{
-    margin: 25px;
+   padding: 25px;
 }
 h1, h3{
     display: inline;
+}
+
+
+#rowExperiencia{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
 }
