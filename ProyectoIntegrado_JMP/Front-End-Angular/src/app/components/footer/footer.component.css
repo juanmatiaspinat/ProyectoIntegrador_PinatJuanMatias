@@ -1,18 +1,18 @@
 .row{
-    background: #a1b5cb;
+    background: #4a6e94;
+    padding: auto;
+    margin: auto;
 }
 
 footer{
     color: #fefefe;
-    box-sizing: border-box;
-    font-size: 1rem;
+    font-size: 14px;
     display: flex;
     flex-direction: column;
     text-align: center;
     margin: 0px;
     box-shadow: 2px -2px 5px #999;
 }
-
 
 #footerRow{
     box-sizing: border-box;

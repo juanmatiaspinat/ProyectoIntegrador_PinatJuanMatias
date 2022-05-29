@@ -1,5 +1,5 @@
 div{
-    background-color: #FFFFFF;
+    background-color: #4a6e94;
     text-align: center;
 }
 
@@ -21,8 +21,12 @@ div{
     /* margin-top: 30%; */
 }
 
+.row{
+    padding: auto;
+    margin: auto;
+}
 
-#rowAcercaDe{
+/*#rowAcercaDe{
     padding: 0px;
     box-sizing: border-box;
     margin-bottom: 2rem;
@@ -49,4 +53,5 @@ div{
         display: flex;
         justify-content:center;
         align-items: center;
-    }
+    }*/
+    
